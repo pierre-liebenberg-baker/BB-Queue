@@ -1,0 +1,17 @@
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\bin\Debug\net6.0-windows\BB Queue.exe
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\bin\Debug\net6.0-windows\BB Queue.deps.json
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\bin\Debug\net6.0-windows\BB Queue.runtimeconfig.json
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\bin\Debug\net6.0-windows\BB Queue.dll
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\bin\Debug\net6.0-windows\BB Queue.pdb
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\BB Queue.csproj.AssemblyReference.cache
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\BB_Queue.Form1.resources
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\BB Queue.csproj.GenerateResource.cache
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\BB Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\BB Queue.AssemblyInfoInputs.cache
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\BB Queue.AssemblyInfo.cs
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\BB Queue.csproj.CoreCompileInputs.cache
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\BB Queue.dll
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\refint\BB Queue.dll
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\BB Queue.pdb
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\BB Queue.genruntimeconfig.cache
+C:\Users\pierrel\source\repos\BB Queue\BB Queue\obj\Debug\net6.0-windows\ref\BB Queue.dll
